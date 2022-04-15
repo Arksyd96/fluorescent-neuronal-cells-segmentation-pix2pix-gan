@@ -1,0 +1,4 @@
+data/
+discriminator_model/
+generator_model/
+stats/
